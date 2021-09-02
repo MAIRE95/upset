@@ -1,0 +1,25 @@
+﻿{
+	"file": "https://raw.githubusercontent.com/MAIRE95/upset/main/upset_input_new.txt",
+	"name": "KoreanCore2021.v2 ",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 6, "name": "elements" },
+		{ "type": "float", "index": 7, "name": "Core" },
+		{ "type": "float", "index": 8, "name": "Ent1" },
+		{ "type": "float", "index": 9, "name": "Ent2" },
+		{ "type": "float", "index": 10, "name": "Ent3" },
+		{ "type": "float", "index": 11, "name": "Ent4" },
+		{ "type": "float", "index": 12, "name": "Ent5" },
+		{ "type": "float", "index": 13, "name": "Core" },
+		{ "type": "float", "index": 14, "name": "Ent1" },
+		{ "type": "float", "index": 15, "name": "Ent2" },
+		{ "type": "float", "index": 16, "name": "Ent3" },
+		{ "type": "float", "index": 17, "name": "Ent4" },
+		{ "type": "float", "index": 18, "name": "Ent5" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 5 }
+	]
+}
