@@ -1,0 +1,32 @@
+{
+	"file": "https://github.com/MAIRE95/upset/blob/f4aa5748e2754d43e0c7a2d1b0da65af5277f4a6/data",
+	"name": "KoreanCore2021.v2 ",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "elements" },
+		{ "type": "float", "index": 1, "name": "Core_1" },
+		{ "type": "float", "index": 2, "name": "Ent1_1" },
+		{ "type": "float", "index": 3, "name": "Ent2_1" },
+		{ "type": "float", "index": 4, "name": "Ent3_1" },
+		{ "type": "float", "index": 5, "name": "Ent4_1" },
+		{ "type": "float", "index": 6, "name": "Ent5_1" },
+		{ "type": "float", "index": 7, "name": "Core_2" },
+		{ "type": "float", "index": 8, "name": "Ent1_2" },
+		{ "type": "float", "index": 9, "name": "Ent2_2" },
+		{ "type": "float", "index": 10, "name": "Ent3_2" },
+		{ "type": "float", "index": 11, "name": "Ent4_2" },
+		{ "type": "float", "index": 12, "name": "Ent5_2" },
+		{ "type": "id", "index": 13, "name": "Domain"},
+		{ "type": "id", "index": 14, "name": "Phylum" },
+		{ "type": "id", "index": 15, "name": "Class" },
+		{ "type": "id", "index": 16, "name": "Order" },
+		{ "type": "id", "index": 17, "name": "Family" },
+		{ "type": "id", "index": 18, "name": "Genus" },
+		{ "type": "id", "index": 19, "name": "Species" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 20, "end": 25 }
+	]
+}
