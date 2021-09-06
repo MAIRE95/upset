@@ -13,12 +13,12 @@
 		{ "type": "float", "index": 10, "name": "Ent3_Pct" },
 		{ "type": "float", "index": 11, "name": "Ent4_Pct" },
 		{ "type": "float", "index": 12, "name": "Ent5_Pct" },
-		{ "type": "float", "index": 13, "name": "Core_Frep" },
-		{ "type": "float", "index": 14, "name": "Ent1_Frep" },
-		{ "type": "float", "index": 15, "name": "Ent2_Frep" },
-		{ "type": "float", "index": 16, "name": "Ent3_Frep" },
-		{ "type": "float", "index": 17, "name": "Ent4_Frep" },
-		{ "type": "float", "index": 18, "name": "Ent5_Frep" }
+		{ "type": "float", "index": 13, "name": "Core_Freq" },
+		{ "type": "float", "index": 14, "name": "Ent1_Freq" },
+		{ "type": "float", "index": 15, "name": "Ent2_Freq" },
+		{ "type": "float", "index": 16, "name": "Ent3_Freq" },
+		{ "type": "float", "index": 17, "name": "Ent4_Freq" },
+		{ "type": "float", "index": 18, "name": "Ent5_Freq" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 2, "end": 7 }
