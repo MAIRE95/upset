@@ -2,7 +2,7 @@
 	"file": "https://raw.githubusercontent.com/MAIRE95/upset/main/Input_2.txt",
 	"name": "KoreanCore2021.v2_1 ",
 	"header": 0,
-	"separator": ",",
+	"separator": ";",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Genus" },
