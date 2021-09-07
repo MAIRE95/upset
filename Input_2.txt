@@ -1,4 +1,4 @@
-Genus;Phylum;Core;Ent1;Ent2;Ent3;Ent4;Ent5;Core_1;Ent1_1;Ent2_1;Ent3_1;Ent4_1;Ent5_1;Core_2;Ent1_2;Ent2_2;Ent3_2;Ent4_2;Ent5_2
+Genus;Phylum;Core;Ent1;Ent2;Ent3;Ent4;Ent5;Core_Pct;Ent1_Pct;Ent2_Pct;Ent3_Pct;Ent4_Pct;Ent5_Pct;Core_Freq;Ent1_Freq;Ent2_Freq;Ent3_Freq;Ent4_Freq;Ent5_Freq
 g__Bifidobacterium;s__Bifidobacterium_adolescentis;0;1;1;0;0;0;0;57.8;56.2;0;0;0;0;0.3117;0.787;0;0;0
 g__Prevotella;s__Prevotella_copri;0;1;1;0;0;0;0;76.9;51.8;0;0;0;0;3.4564;1.8153;0;0;0
 g__Prevotella;s__Prevotella_copri;0;1;1;0;0;0;0;68.7;51.2;0;0;0;0;2.4064;1.2711;0;0;0
