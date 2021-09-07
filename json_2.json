@@ -1,0 +1,26 @@
+{
+	"file": "https://raw.githubusercontent.com/MAIRE95/upset/main/Input.txt",
+	"name": "KoreanCore2021.v2_1 ",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Genus" },
+		{ "type": "id", "index": 1, "name": "Phylum" },
+		{ "type": "float", "index": 8, "name": "Core_Pct" },		
+		{ "type": "float", "index": 8, "name": "Ent1_Pct" },
+		{ "type": "float", "index": 9, "name": "Ent2_Pct" },
+		{ "type": "float", "index": 10, "name": "Ent3_Pct" },
+		{ "type": "float", "index": 11, "name": "Ent4_Pct" },
+		{ "type": "float", "index": 12, "name": "Ent5_Pct" },
+		{ "type": "float", "index": 13, "name": "Core_Freq" },
+		{ "type": "float", "index": 14, "name": "Ent1_Freq" },
+		{ "type": "float", "index": 15, "name": "Ent2_Freq" },
+		{ "type": "float", "index": 16, "name": "Ent3_Freq" },
+		{ "type": "float", "index": 17, "name": "Ent4_Freq" },
+		{ "type": "float", "index": 18, "name": "Ent5_Freq" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 7 }
+	]
+}
